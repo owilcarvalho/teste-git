@@ -1,2 +1,2 @@
-mensagem = ('Teste de integração com vsCode finalmente')
+mensagem = ('Olá GitHub')
 print(mensagem)
